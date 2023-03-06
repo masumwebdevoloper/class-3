@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(251, 196, 196);
+}
+.heding{
+    text-align: center;
+    background-color:wheat ;
+}
+.heding h2{
+    font-size: 40px;
+    color: blueviolet;
+    text-transform: uppercase;
+    margin: 0;
+}
+.heding h4{
+        padding: 20px;
+        margin: 0px;
+        font-size: 30px;
+        text-transform: capitalize;
+}
+.about{
+    text-align: center;
+   
+}
+.about img{border-radius: 10px;
+    object-fit:cover;
+    width: 60%;
+    height:auto ;}
+.about h4{
+font-size: 40px;
+color: rgb(83, 29, 6);
+text-transform: uppercase;
+margin: 12;
+text-decoration: underline;
+}
+.about p{font-size: 30px;
+    text-transform: capitalize;
+    margin: -3%;
+    padding: 0%;}
